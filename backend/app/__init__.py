@@ -1,0 +1,1 @@
+"""DocChat backend application package."""
