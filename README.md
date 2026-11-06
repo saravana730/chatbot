@@ -47,9 +47,11 @@ npm run dev
 
 ## Screenshots
 
-| Login | Chat + citations | Upload progress |
-|-------|------------------|-----------------|
-| ![Login](docs/screenshots/01-login.png) | ![Chat](docs/screenshots/02-chat.png) | ![Upload](docs/screenshots/03-upload.png) |
+| Login | Chat + citations | Upload |
+|-------|------------------|--------|
+| ![Login](docs/screenshots/login.png) | ![Chat](docs/screenshots/chat.png) | ![Upload](docs/screenshots/upload.png) |
+
+Demo video: [`docs/recording/demo.mp4`](docs/recording/demo.mp4)
 
 ## Architecture overview
 
